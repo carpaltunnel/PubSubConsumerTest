@@ -1,0 +1,16 @@
+{
+  "name": "pubsubpoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "consumer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/pubsub": "^1.7.3",
+    "grpc": "^1.24.2",
+    "yarg": "^1.0.8"
+  }
+}
